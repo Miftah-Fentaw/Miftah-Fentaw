@@ -7,7 +7,7 @@
 
 ## 👋 Hello, I'm Miftah Fentaw!
 
-I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and **React Native** from Ethiopia. I love building beautiful, performant, and user-friendly mobile apps.
+I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and *cyber security** from Ethiopia. I love building beautiful, performant, and user-friendly mobile apps and also srtive to the security world.
 
 ---
 
@@ -15,18 +15,20 @@ I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and
 
 - 🎯 Build **high-performance**, scalable, and maintainable apps  
 - 📱 Flutter apps with beautiful UI & custom animations  
-- ⚛️ React Native apps with native-like experiences  
 - 🔄 Integrate REST APIs, GraphQL, Firebase & other backend services  
 - 🧪 Write clean, testable, and maintainable code  
-- 🚀 Optimize app performance and build continuous integration pipelines  
+- 🚀 Optimize app performance and build continuous integration pipelines
+- 🎯 write python code for automation,scripting and also backend purposes
+- 🧪 use tools and resources to test and and take security measures
 
 ---
 
+
 ## 🔧 Tech Stack & Tools
 
-| Flutter  | React Native | State Management                          | Backend                               | CI/CD                                         | Tools & IDEs                                         |
-| -------- | ------------ | ---------------------------------------- | ----------------------------------- | --------------------------------------------- | --------------------------------------------------- |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Provider](https://img.shields.io/badge/Provider-00B0FF?style=flat) <br> ![Riverpod](https://img.shields.io/badge/Riverpod-42A5F5?style=flat&logo=flutter&logoColor=white) <br> ![Bloc](https://img.shields.io/badge/Bloc-673AB7?style=flat&logo=flutter&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) <br> ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) |
+| Flutter  | State Management                          | Backend                               | CI/CD                                         | Tools & IDEs                                         | Python & Security |
+| -------- | ---------------------------------------- | ------------------------------------- | ------------------------------------------- | --------------------------------------------------- | ---------------- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Provider](https://img.shields.io/badge/Provider-00B0FF?style=flat) <br> ![Riverpod](https://img.shields.io/badge/Riverpod-42A5F5?style=flat&logo=flutter&logoColor=white) <br> ![Bloc](https://img.shields.io/badge/Bloc-673AB7?style=flat&logo=flutter&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) <br> ![REST API](https://img.shields.io/badge/REST_API-FF6D00?style=flat) <br> ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) <br> ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) <br> ![OWASP](https://img.shields.io/badge/OWASP-CC3333?style=flat) |
 
 ---
 
@@ -34,8 +36,6 @@ I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="40" />
   &nbsp;&nbsp;
@@ -61,7 +61,7 @@ I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="40" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="40" />
 </p>
 
 
@@ -69,7 +69,9 @@ I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and
 - Write once, deploy everywhere  
 - Fast development cycles with hot reload  
 - Rich ecosystem and community support  
-- Native performance & expressive UIs  
+- Native performance & expressive UIs
+- powerful for most cyber actions
+- very scalable and rich modules
 
 ---
 
