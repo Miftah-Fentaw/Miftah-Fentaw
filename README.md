@@ -1,7 +1,7 @@
-# 🚀 Mobile App Developer | Flutter & React Native 
+# 🚀 Flutter Mobile App Developer & Cyber Security Analyst
 
 ![header image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ1Z2M2bWYwZXNyMnc4Z24yaDYyNnk4anM0bjQ3MmQzazVnb2gxZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
-✨🌟 Building beautiful Flutter & React Native apps 🌟✨
+✨🌟 Building beautiful Flutter apps , Analysing and Securing systems/networks 🌟✨
 
 ---
 
