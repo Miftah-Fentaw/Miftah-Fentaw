@@ -11,15 +11,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miftah-Fentaw&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Fentaw&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://t.me/Miftah-Fentaw" target="_blank">
