@@ -22,7 +22,7 @@
   <a href="https://instagram.com/miftah_fentaw16" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:Miftahfentawdev@gmail.com">
+  <a href="Miftahfentawdev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
