@@ -6,7 +6,8 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,docker,figma,firebase,git,github,vscode,linux,ai" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,docker,figma,firebase,supabase,git,github,vscode,linux,ai" />
+
 </p>
 
 ---
