@@ -3,11 +3,14 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
+### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,docker,figma,firebase,supabase,git,github,vscode,linux,ai" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,kotlin,java,cpp" />
+</p>
 
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,figma,firebase,supabase,git,github,vscode,linux,ai" />
 </p>
 
 ---
