@@ -5,7 +5,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,kotlin,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,kotlin,c#" />
 </p>
 
 ### 🧰 Tools & Platforms
