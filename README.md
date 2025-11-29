@@ -1,5 +1,5 @@
 <h1 align="center">Miftah Fentaw</h1>
-<h3 align="center">🚀 Flutter | django 👨🏼‍💻| kotlin | Cyber Security Enthusiast 🔒</h3>
+<h3 align="center">🚀 Flutter | Python 👨🏼‍💻| kotlin | Cyber Security Enthusiast 🔒</h3>
 
 ---
 
