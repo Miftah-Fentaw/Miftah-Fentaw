@@ -1,11 +1,12 @@
-<h1 align="center">Miftah Fentaw</h1>
-<h3 align="center">🚀 Flutter | Python 👨🏼‍💻| kotlin | Cyber Security Enthusiast 🔒</h3>
+<h1 align="center"> Hi There <br> I am Miftah Fentaw <br> Fullstack Mobile App Developer And UI/UX Designer</h1>
+<h3 align="center">🚀 Flutter | kotlin | Python 👨🏼‍💻| Cyber Security Enthusiast 🔒</h3>
+<br>
 
 ---
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,kotlin" />
 </p>
 
 ### 🧰 Tools & Platforms
