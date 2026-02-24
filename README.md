@@ -1,5 +1,5 @@
-<h1 align="center"> Hi There <br> I am Miftah Fentaw <br> Fullstack Mobile App and React Developer</h1>
-<h3 align="center">🚀 Flutter | kotlin | Python 👨🏼‍💻| React 🌐</h3>
+<h1 align="center"> Hi There <br> I am Miftah Fentaw <br> Fullstack Mobile App Developer</h1>
+<h5 align="center">🚀 Flutter | kotlin | Python | Developer</h5> 
 <br>
 
 ---
@@ -13,6 +13,18 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,figma,firebase,supabase,git,github,vscode,linux,ai,lovable" />
 </p>
+
+---
+[Kotlin](https://kotlinlang.org) and [Flutter](https://flutter.dev) mobile app developer offering reliable, scalable Android applications with user-friendly UI/UX. Contact me if you want any projects done or want to work with me. My main objective is to convert your ideas into fully functional applications with seamless performance and designs that are in line with current trends or your expectations.
+
+### What I Do
+
+- **Android App Development** using Kotlin and Flutter  
+- **UI/UX Implementation** with references from Dribbble, Figma, and Bubble  
+- **Visual Assets & Simple Designs** using Canva  
+- **Testing & Quality Assurance** on real devices  
+- **Ongoing Support & Improvements** for long-term projects  
+- **Feature Implementation** including custom UI elements and workflows
 
 ---
 
