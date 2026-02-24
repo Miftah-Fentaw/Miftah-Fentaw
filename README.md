@@ -20,7 +20,7 @@
 ### What I Do
 
 - **Android App Development** using Kotlin and Flutter  
-- **UI/UX Implementation** with references from Dribbble, Figma, and Bubble  
+- **UI/UX Implementation** with references from Dribbble, Figma, and Behance  
 - **Visual Assets & Simple Designs** using Canva  
 - **Testing & Quality Assurance** on real devices  
 - **Ongoing Support & Improvements** for long-term projects  
