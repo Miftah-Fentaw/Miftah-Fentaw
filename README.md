@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There <br> I am Miftah Fentaw <br> Fullstack Mobile App Developer</h1>
-<h5 align="center">🚀 Flutter | kotlin | Python | Developer</h5> 
+<h2 align="center">🚀 Flutter | kotlin | Python | Developer</h2> 
 <br>
 
 ---
