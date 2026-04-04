@@ -8,6 +8,25 @@
 
 ---
 
+## 📞 Contact Me
+
+<p align="left">
+  <a href="mailto:Miftahfentawdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Miftahfentawdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Miftah-Fentaw" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Miftah__Fentaw-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/miftah-fentaw" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Miftah%20Fentaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://miftahfentaw.site" target="_blank">
+    <img src="https://img.shields.io/badge/Website-miftahfentaw.site-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🔍 About Me
 
 - 💼 **Role:** Full-Stack Developer (Mobile, Web, Desktop & Automation)
@@ -17,7 +36,6 @@
 - ⚙️ **Background:** Network Engineering & Cyber Security
 - 🎨 **Skills:** UI/UX Design, Figma, Canva
 - 🌱 **Always Learning:** AI/ML integration, new frameworks
-- 📫 **Contact:** [Miftahfentawdev@gmail.com](mailto:Miftahfentawdev@gmail.com)
 
 ---
 
@@ -67,32 +85,12 @@
 
 ## 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>Chatly</h3>
-      <p>Real-time messaging app with Flutter & Firebase</p>
-      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/Chatly?style=flat" /></p>
-    </td>
-    <td align="center">
-      <h3>News Plus</h3>
-      <p>Flutter news aggregator with RSS & dark mode</p>
-      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/News_Plus?style=flat" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>EthioWorks</h3>
-      <p>Job platform connecting employers & job seekers</p>
-      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/Ethioworks?style=flat" /></p>
-    </td>
-    <td align="center">
-      <h3>Afcon E-Commerce</h3>
-      <p>E-commerce app with Stripe & biometrics</p>
-      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/Afcon_E-Comerce?style=flat" /></p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech | Stars |
+|---------|-------------|------|-------|
+| **Chatly** | Real-time messaging app | Flutter, Firebase | ![Stars](https://img.shields.io/github/stars/Miftah-Fentaw/Chatly?style=flat) |
+| **News Plus** | News aggregator with RSS | Flutter, Dart | ![Stars](https://img.shields.io/github/stars/Miftah-Fentaw/News_Plus?style=flat) |
+| **EthioWorks** | Job platform for Ethiopia | Flutter, Firebase | ![Stars](https://img.shields.io/github/stars/Miftah-Fentaw/Ethioworks?style=flat) |
+| **Afcon E-Commerce** | E-commerce with Stripe | Flutter, Stripe | ![Stars](https://img.shields.io/github/stars/Miftah-Fentaw/Afcon_E-Comerce?style=flat) |
 
 ---
 
@@ -124,19 +122,16 @@
 
 <p align="left">
   <a href="https://miftahfentaw.site" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internet.svg" width="36" height="36" />
+    <img src="https://img.shields.io/badge/Website-Visit%20my%20portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://t.me/Miftah-Fentaw" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="36" height="36" />
+    <img src="https://img.shields.io/badge/Telegram-Contact%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/miftah-fentaw" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36" height="36" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/miftah_fentaw16" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="36" height="36" />
-  </a>
-  <a href="mailto:Miftahfentawdev@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="36" height="36" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
