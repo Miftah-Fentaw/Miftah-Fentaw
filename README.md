@@ -67,28 +67,39 @@
 
 ## 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Miftah-Fentaw/Chatly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miftah-Fentaw&repo=Chatly&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Miftah-Fentaw/News_Plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miftah-Fentaw&repo=News_Plus&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Miftah-Fentaw/Ethioworks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miftah-Fentaw&repo=Ethioworks&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Miftah-Fentaw/Afcon_E-Comerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miftah-Fentaw&repo=Afcon_E-Comerce&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Chatly</h3>
+      <p>Real-time messaging app with Flutter & Firebase</p>
+      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/Chatly?style=flat" /></p>
+    </td>
+    <td align="center">
+      <h3>News Plus</h3>
+      <p>Flutter news aggregator with RSS & dark mode</p>
+      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/News_Plus?style=flat" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>EthioWorks</h3>
+      <p>Job platform connecting employers & job seekers</p>
+      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/Ethioworks?style=flat" /></p>
+    </td>
+    <td align="center">
+      <h3>Afcon E-Commerce</h3>
+      <p>E-commerce app with Stripe & biometrics</p>
+      <p><img src="https://img.shields.io/github/stars/Miftah-Fentaw/Afcon_E-Comerce?style=flat" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miftah-Fentaw&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miftah-Fentaw&theme=blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Miftah-Fentaw&show_icons=true&hide_border=true&theme=blue&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 ---
