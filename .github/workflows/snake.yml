@@ -17,7 +17,8 @@ jobs:
 
     steps:
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        # Pin to v3.4.0 — v3.5.0+ uses node24, which causes GitHub Actions startup_failure
+        uses: Platane/snk/svg-only@v3.4.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
