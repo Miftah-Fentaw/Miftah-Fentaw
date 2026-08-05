@@ -6,34 +6,7 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Products+In+Days%2C+Not+Weeks+%F0%9F%9A%80;Mobile%2C+Web+%26+Automation+Developer+%F0%9F%8E%93;Flutter+%7C+Kotlin+%7C+Django+%7C+React+%F0%9F%A4%96;4%2B+Years+Experience+%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://t.me/Miftah-Fentaw">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://linkedin.com/in/miftah-fentaw">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Miftahfentawdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://miftahfentaw.site">
-    <img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
 
-<!-- Stats Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Availability-Worldwide-blue?style=for-the-badge" alt="Availability"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Ready-orange?style=for-the-badge" alt="Open Source"/>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Miftah-Fentaw&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Miftah-Fentaw?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-</p>
 
 </div>
 
@@ -51,4 +24,38 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miftah-Fentaw/Miftah-Fentaw/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miftah-Fentaw/Miftah-Fentaw/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+
+<div align="center"
+<!-- Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Availability-Worldwide-blue?style=for-the-badge" alt="Availability"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Ready-orange?style=for-the-badge" alt="Open Source"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Miftah-Fentaw&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Miftah-Fentaw?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+</p>
+<br/>
+
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://t.me/Miftah-Fentaw">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/miftah-fentaw">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Miftahfentawdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://miftahfentaw.site">
+    <img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 </div>
