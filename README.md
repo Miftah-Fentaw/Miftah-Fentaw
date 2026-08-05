@@ -35,11 +35,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Ready-orange?style=for-the-badge" alt="Open Source"/>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Miftah-Fentaw&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Miftah-Fentaw?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-</p>
 <br/>
 
 
@@ -58,4 +53,9 @@
     <img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
+
+
+
+<br/>
+<!-- Social Badges --> <p align="center"> <a href="https://t.me/Miftah-Fentaw"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="https://linkedin.com/in/miftah-fentaw"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/miftah_fentaw16"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:Miftahfentawdev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 </div>
