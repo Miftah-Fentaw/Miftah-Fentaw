@@ -1,5 +1,4 @@
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 */12 * * *" # Every 12 hours
@@ -7,14 +6,12 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Generate github-contribution-grid-snake.svg
         # Pin to v3.4.0 — v3.5.0+ declares node24, which GitHub rejects at startup
@@ -24,7 +21,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # Avoid crazy-max/ghaction-github-pages@v3 (node16 — removed from runners)
       - name: Push snake SVGs to the output branch
         working-directory: dist
