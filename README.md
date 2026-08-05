@@ -38,10 +38,6 @@
 </div>
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftah-Fentaw&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-</div>
-
 <br/>
 
 <div align="center">
