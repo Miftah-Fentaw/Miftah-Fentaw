@@ -34,9 +34,9 @@
 <p align="center">
   <a href="https://t.me/Miftah-Fentaw"><img src="https://img.icons8.com/color/48/telegram-app.png" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/miftah-fentaw"><img src="https://img.icons8.com/color/48/linkedin-circled.png" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/miftah_fentaw16"><img src="https://img.icons8.com/color/48/instagram-old.png" width="40" height="40" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/miftah_fentaw16"><img src="https://img.icons8.com/color/48/instagram-new.png" width="40" height="40" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="mailto:Miftahfentawdev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://miftahfentaw.site"><img src="https://img.icons8.com/color/48/internet.png" width="40" height="40" alt="Website"/></a>
+  <a href="https://miftahfentaw.site"><img src="https://img.icons8.com/?size=100&id=42809&format=png&color=000000" width="40" height="40" alt="Website"/></a>
 </p>
 
 </div>
