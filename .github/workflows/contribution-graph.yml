@@ -1,0 +1,44 @@
+name: Generate Contribution Graph
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate contribution graph SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Miftah-Fentaw
+          OUTPUT_PATH: output/contribution-graph.svg
+        run: node scripts/generate-contribution-graph.mjs
+
+      - name: Commit updated SVG when changed
+        run: |
+          if git diff --quiet -- output/contribution-graph.svg; then
+            echo "No contribution graph changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/contribution-graph.svg
+          git commit -m "Update contribution activity graph"
+          git push
