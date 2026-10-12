@@ -62,6 +62,10 @@ function renderSvg(days, totalContributions) {
 
   const points = weekly.map(mapPoint);
   const pointsAttr = points.map((point) => `${point.x},${point.y}`).join(' ');
+  const chartBottom = top + chartHeight;
+  const firstPointX = points[0]?.x ?? left;
+  const lastPointX = points[points.length - 1]?.x ?? firstPointX;
+  const areaPointsAttr = `${firstPointX},${chartBottom} ${pointsAttr} ${lastPointX},${chartBottom}`;
 
   const startLabel = days[0]?.date ?? '';
   const endLabel = days[days.length - 1]?.date ?? '';
@@ -79,10 +83,17 @@ function renderSvg(days, totalContributions) {
   <title id="title">Contribution Activity</title>
   <desc id="desc">Weekly contribution activity for the last year for ${escapeXml(USERNAME)}.</desc>
   <rect width="100%" height="100%" fill="${background}" rx="14" />
+  <defs>
+    <linearGradient id="areaGradient" x1="0" y1="${top}" x2="0" y2="${chartBottom}" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="${accent}" stop-opacity="0.38" />
+      <stop offset="100%" stop-color="${accent}" stop-opacity="0.06" />
+    </linearGradient>
+  </defs>
   <text x="${left}" y="34" fill="${white}" font-size="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700">Contribution Activity</text>
   <text x="${left}" y="50" fill="${white}" opacity="0.85" font-size="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">${totalContributions} contributions in the last year</text>
-  <line x1="${left}" y1="${top + chartHeight}" x2="${width - right}" y2="${top + chartHeight}" stroke="${white}" opacity="0.2" stroke-width="1"/>
+  <line x1="${left}" y1="${chartBottom}" x2="${width - right}" y2="${chartBottom}" stroke="${white}" opacity="0.2" stroke-width="1"/>
   <line x1="${left}" y1="${top}" x2="${width - right}" y2="${top}" stroke="${white}" opacity="0.08" stroke-width="1"/>
+  <polygon fill="url(#areaGradient)" points="${areaPointsAttr}" />
   <polyline fill="none" stroke="${accent}" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" points="${pointsAttr}" />
   ${circles}
   <text x="${left}" y="${height - 16}" fill="${white}" opacity="0.75" font-size="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">${escapeXml(startLabel)}</text>
