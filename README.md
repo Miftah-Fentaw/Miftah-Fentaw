@@ -30,7 +30,16 @@
 </p>
 
 <br/>
-
+<!-- Upwork Card -->
+<!-- Upwork Card -->
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01813c83973506062d">
+    <img src="https://cdn.simpleicons.org/upwork/14a800" height="64" alt="Upwork"/>
+    <br/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,10,2&height=130&section=header&text=Hire%20Me%20on%20Upwork&fontSize=36&fontColor=fff&fontAlignY=42&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20%E2%80%A2%20Automation%20%E2%80%A2%20View%20Profile%20%E2%86%92&descSize=16&descAlignY=68" width="90%" alt="Hire Miftah on Upwork"/>
+  </a>
+</p>
+<br/>
 <!-- Social Icons -->
 <p align="center">
   <a href="https://t.me/Miftah-Fentaw"><img src="https://img.icons8.com/color/48/telegram-app.png" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;
